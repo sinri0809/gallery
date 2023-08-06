@@ -1,0 +1,14 @@
+@import './reset';
+@import './styles';
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1;
+
+  user-select: none;
+  text-align: center;
+}
